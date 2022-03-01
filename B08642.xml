@@ -1,0 +1,155 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The case of several patentees and their assignees, who are intituled to several annual sums, payable ouf the hereditary excise</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1698</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 6 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B08642</idno>
+            <idno type="STC">Wing C986B</idno>
+            <idno type="STC">ESTC R173552</idno>
+            <idno type="EEBO-CITATION">64551035</idno>
+            <idno type="OCLC">ocm 64551035</idno>
+            <idno type="VID">184422</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B08642)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 184422)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2863:29)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The case of several patentees and their assignees, who are intituled to several annual sums, payable ouf the hereditary excise</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.).   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1698]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Place and date of publication suggested by Wing (2nd ed.).</note>
+                  <note>Reproduction of original in: Harvard Law School. Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Charles --  II, --  King of England, 1630-1685.</term>
+               <term>Finance, Public --  England --  Early works to 1800.</term>
+               <term>Great Britain --  Politics and government --  1689-1702 --  Sources.</term>
+               <term>Broadsides --  England --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-10</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2012-10</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:184422:1" rendition="simple:additions"/>
+            <head>THE CASE Of ſeveral Patentees and their Aſſignees, who are Intituled to ſeveral Annual Sums, payable out of the Hereditary Exciſe.</head>
+            <p>HIS Majeſty King <hi>Charles</hi> the Second,
+<note place="margin">
+                  <hi>Note,</hi> That before the ſaid Letters Pa<g ref="char:EOLhyphen"/>tents were Granted, their ſeveral Ac<g ref="char:EOLhyphen"/>counts were exactly Stated with the greateſt ſcrutiny, and allowed by Sir <hi>John Brule,</hi> then Chancellor of the Ex<g ref="char:EOLhyphen"/>chequer, and Auditor <hi>Aldworth,</hi> the pro<g ref="char:EOLhyphen"/>per Officers for that purpoſe; and the ſaid Patents were Printed, by order of the King and Council, for their Credi<g ref="char:EOLhyphen"/>tors Information.</note> having borrowed about Thirteen hundred thouſand Pounds of Sir <hi>Robert Vyner,</hi> ſeveral Goldſmiths and others, did for Satisfaction thereof, in <hi>April,</hi> 1677, Grant and Aſſure by Patents under the Great Seal of <hi>England,</hi> to each of them, their Heirs and Aſſigns, and for the benefit of their Creditors, an Yearly Rent or Sum for ever, upon the Hereditary Revenue of Exciſe, equal in Value to the Intereſt of their Debts, after the rate of Six Pounds <hi>per Cent. per Annum,</hi> which a<g ref="char:EOLhyphen"/>mounts in the whole, to near Eighty Thouſand Pounds <hi>per Ann.</hi> with a Clauſe of Redemption upon His Maje<g ref="char:EOLhyphen"/>ſty's paying the Principal and Arrears.
+<note place="margin">Which ſaid Annual Payments, were by the ſaid Letters Patents, to take place of all other Payments out of the ſaid Revenue, except the neceſſary Sums for management of the ſaid Revenue, and about 12000 <hi>l. per A<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>n.</hi> to the then Queen Conſort, parcel of her Jointure, and 24000 <hi>l. per Ann.</hi> to the then Duke of <hi>York.</hi>
+               </note>
+            </p>
+            <p>By Virtue whereof, the ſaid Annual Sums were paid in the ſeveral Reigns of their late Majeſties, King <hi>Charles</hi> the Second, and King <hi>James</hi> the Second, to <hi>Lady-day,</hi> 1683.</p>
+            <p>Since which,
+<note place="margin">Suit <hi>Hil.</hi> 1. <hi>W.</hi> and <hi>M.</hi> 1689. Judgment <hi>Hil.</hi> 3. <hi>W.</hi> and <hi>M.</hi> 1691.</note> Application has been frequenſly made to the ſeveral proper Officers by the ſaid Patents appointed for ſtriking Tallies, and Payment thereof, who nevertheleſs have cauſed the ſame to be ſtopped, ſo that ſome of the Proprietors were enforced to Commence their Suits in the Courts of <hi>Enchequer,</hi> and after a full hearing on both ſides, obtained Judgments thereupon.</p>
+            <p>But Writs of Error being brought againſt the ſaid Judgments,
+<note place="margin">Writs of Error, Eaſter Term, 4. <hi>W.</hi> and <hi>M.</hi> 1692.</note> all the reſt of the Judges of <hi>England</hi> were convened, who upon ſolemn Debates and Arguments delivered their Opinions in Court before the then Lord Keeper, now Lord Chancellor, That the ſaid Judgments were good in Law, and ought to be affirmed, for that the ſaid Letters Patents were duly granted by the ſaid King <hi>Charles</hi> the Second, who had power to grant the ſame, and which were for good and valuable Conſiderations; and that the ſaid ſeveral Suits had been purſued in proper Methods for Remedy; except the Lord Chief Juſtice <hi>Treby,</hi> who differed as to the manner of the Remedy only.</p>
+            <p>Notwithſtanding which,
+<note place="margin">
+                  <p>Lords Keepers Opinions, <hi>Mich.</hi> 8. <hi>W.</hi> 3. 1696.</p>
+                  <p>Seat. 31. <hi>Edw.</hi> 3. Cap. 12.</p>
+               </note> the then Lord Keeper was pleaſed to Reverſe the ſaid Judgments for Error, although the Statute (which appoints the Lord Chancellor Judge of the Court of Errors) directs, That if any Error be found, the Court ſhould correct and amend the Rolls, and after ſend them into the <hi>Exchequer</hi> to make Execution as pertaineth.
+<note place="margin">
+                  <hi>Note,</hi> Such Writs of Error againſt the King, could not be Sued forth un<g ref="char:EOLhyphen"/>til the Judgment ſhould be Entered, nor without His Majeſty's leave firſt obtained.</note>
+            </p>
+            <p>But notwithſtanding all due Application to the proper Officers to enter the ſaid Judgments,
+<note place="margin">Judgment Entered, 15. <hi>Feb.</hi> 169<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.</note> the ſame could not be procured, but was delayed by the ſpace of five Terms.</p>
+            <p>Soon after,
+<note place="margin">Repert, D<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t. 28 <hi>Feb.</hi> 169<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.</note> Writs of Error were prepared returnable in Parliament, and Petitions to his Majeſty preſented at the Secretary of State's Office, praying leave to return the ſame, which Petition was referred to Mr. Attorney-General, who reported, That in regard the Queſtion upon the ſaid Proceedings was Matter of Law, upon which there had been variety of Opinions; he was humbly of Opinion it might be reaſonable for His Majeſty to grant Writs of Error to the Petitioners, according to their humble Requeſt, all which he humbly ſubmitted to His Majeſty's Royal Wiſdom. But no further Anſwer can yet be had for obtaining the ſaid Writs, by which means the Proſe<g ref="char:EOLhyphen"/>cutors are incapacitated to bring the Cauſe into the Houſe of Peers.</p>
+            <p>This being the Caſe of ſeveral thouſands of the Subjects of <hi>England</hi> of all Qualities and Conditions, and the Value ſo conſiderable; and after ſo much Time and Money ſpent in Law, and Judgments in the Court of <hi>Exchequer</hi> given in their behalf, and ſo many of the Judges Opinion in their favour thereupon, and the Matter ſtill depending, and intended to be brought into the Houſe of Peers:
+<q>
+                  <hi>'Tis hoped the Honourable Houſe of Commons will ſo far preſerve the Property of the Subjects of this Realm, (as they have been accuſtomed) that whereas there is a Bill brought into the Houſe for applying the Hereditary Exciſe to the Payment of the Civil Liſt, that their Legal Rights may not be prejudiced by the ſaid Bill.</hi>
+               </q>
+            </p>
+         </div>
+      </body>
+   </text>
+</TEI>
